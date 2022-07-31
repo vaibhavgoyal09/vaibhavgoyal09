@@ -27,7 +27,7 @@
 
 
 ## Frameworks
-![React](https://img.shields.io/static/v1?label=&message=React&color=16181d&style=for-the-badge&logo=react) ![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&style=for-the-badge&logo=django) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/static/v1?label=&message=React&color=16181d&style=for-the-badge&logo=react) ![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&style=for-the-badge&logo=django) ![Express](https://img.shields.io/static/v1?label=&message=Express&color=000000&style=for-the-badge&logo=express) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
 ## Cloud Providers
