@@ -1,8 +1,10 @@
-# 💫About Me :
+# Hello there , I'm Vaibhav 👋
+
+## Full Stack Web Developer
 
 🧔🏻 I'm currently working as a Freelance Full Stack Web developer (React).
 
-🫶 Looking to collaborate for any Web related Open Source Projects.
+😀 Sharing knowledge through Instagram posts.
 
 🎯 Make software to ease people lives.
 
@@ -32,6 +34,9 @@
 
 ![React](https://img.shields.io/static/v1?label=&message=React&color=16181d&style=for-the-badge&logo=react) ![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&style=for-the-badge&logo=django) ![Next](https://img.shields.io/static/v1?label=&message=Next&color=16181d&style=for-the-badge&logo=nextdotjs) ![Express](https://img.shields.io/static/v1?label=&message=Express&color=000000&style=for-the-badge&logo=express) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+## Operating System!
+![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=383838&style=for-the-badge&logo=linux)
+
 ## Cloud Providers
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -60,7 +65,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgoyal09&theme=tokyonight&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgoyal09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://activity-graph.herokuapp.com/graph?username=vaibhavgoyal09&theme=rogue&bg_color=000&hide_border=true" width="100%"/>
 
 ### ✍️Random Dev Quote
 
@@ -70,4 +75,4 @@
 
 ## If You Like My Work
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vaibhavgoyal09)
+<a href="https://buymeacoffee.com/vaibhavgoyal09"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Vaibhav+Goyal&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
