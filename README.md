@@ -4,8 +4,6 @@
 
 🧔🏻 I'm currently working as a Freelance Full Stack Web developer (React).
 
-😀 Sharing knowledge through Instagram posts.
-
 🎯 Make software to ease people lives.
 
 📖 Learning ML and Data Analytics.
@@ -37,7 +35,7 @@
 
 ### Cloud Providers
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Databases
 
@@ -53,8 +51,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=vaibhavgoyal09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgoyal09&theme=tokyonight&hide_border=false)<br/>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=vaibhavgoyal09&theme=rogue&bg_color=000&hide_border=true" width="100%"/>
 
 ---
 
