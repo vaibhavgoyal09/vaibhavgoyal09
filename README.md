@@ -73,23 +73,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavgoyal09&theme=tokyonight&hide_border=true&card_width=400)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgoyal09&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=4ECDC4&stroke=0000)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgoyal09&theme=tokyonight&layout=compact&card_width=400)
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
