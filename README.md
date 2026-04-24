@@ -10,7 +10,7 @@
 <hr>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on building scalable microservices and robust full-stack applications.
+- 🔭 I’m currently working on building AI Automation Agency 
 - 🌱 I’m currently exploring **Advanced System Architecture & AI Integrations**.
 - 💬 Ask me about **NestJS, React, Node.js, Next.js, and Redis**.
 - 📫 How to reach me: **[LinkedIn/Twitter]** 
