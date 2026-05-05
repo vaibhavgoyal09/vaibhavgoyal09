@@ -53,12 +53,12 @@ I am the Founder of **VoluChat**, a SaaS platform dedicated to revolutionizing h
 ### 📈 Metrics & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vaibhavgoyal09&show_icons=true&theme=radical&text_color=00D2FF&title_color=FFFFFF&icon_color=00D2FF&bg_color=0a0e14&border_color=30363d&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgoyal09&theme=radical&stroke=00D2FF&fire=ff6b35&ring=00D2FF&sideNums=00D2FF&sideLabels=00D2FF&dates=00D2FF&background=0a0e14&border=30363d&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vaibhavgoyal09&show_icons=true&theme=radical&text_color=00D2FF&title_color=FFFFFF&icon_color=00D2FF&bg_color=0a0e14&border_color=30363d&hide_border=true&cache_seconds=1800&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=vaibhavgoyal09&theme=radical&stroke=00D2FF&fire=ff6b35&ring=00D2FF&sideNums=00D2FF&sideLabels=00D2FF&dates=00D2FF&background=0a0e14&border=30363d&hide_border=true&cache_seconds=1800&v=1" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vaibhavgoyal09&layout=compact&theme=radical&text_color=00D2FF&title_color=FFFFFF&bg_color=0a0e14&border_color=30363d&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vaibhavgoyal09&layout=compact&theme=radical&text_color=00D2FF&title_color=FFFFFF&bg_color=0a0e14&border_color=30363d&hide_border=true&cache_seconds=1800&v=1" alt="Top Languages" width="48%" />
 </p>
 
 ---
