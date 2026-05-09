@@ -54,7 +54,7 @@ I am the Founder of **VoluChat**, a SaaS platform dedicated to revolutionizing h
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vaibhavgoyal09&show_icons=true&text_color=ffffff&title_color=00d4aa&icon_color=00d4aa&bg_color=1a1b27&border_color=30363d&cache_seconds=1800&v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=vaibhavgoyal09&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats-phi-murex.vercel.app/?user=vaibhavgoyal09&background=1a1b27&border=30363d&stroke=00d4aa&ring=00d4aa&fire=FB8C00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00d4aa&dates=ffffff&currStreakLabel=00d4aa" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
